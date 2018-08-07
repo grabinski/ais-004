@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /vars/run/reboot-required
+ls /var/run/reboot-required
