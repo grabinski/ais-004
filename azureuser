@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /var/run/reboot-required
+ls /home/azureuser
